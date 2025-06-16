@@ -29,7 +29,10 @@ new Date("June 26, 2025 00:00:00")
 
 You can style the countdown using CSS or integrate it into a larger web project.
 
+---
+
 ✅ Use Cases
+
 Product launches
 
 Exam countdown
@@ -37,7 +40,6 @@ Exam countdown
 Birthday reminders
 
 Event timers
-
 
 
 Birthday reminders
